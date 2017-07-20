@@ -1,0 +1,16 @@
+[H]C([H])(C)C C-H stretch 1850 1900 strong
+[H]C([H])(C)C C-H bend 1450 1470 strong 
+CF C-HH stretch 3300 3320 medium
+CF C-HH bend 3430 3490 weak
+COC C-O-C stretch 2400 2420 medium
+COC C-O-C sbend 2500 2720 weak
+COC C-O-C abend 2800 2920 strong
+[H]C([H])([H])C([H])(C)C([H])([H])[H] none stretch 1600 1820 medium
+[H]C([H])([H])C([H])(C)C([H])([H])[H] none astretch 670 900 strong
+[H]C([H])([H])C none stretch 100 200 weak
+[H]C([H])([H])C none stretch 350 475 medium
+[H]N(N)C none bend 550 675 medium
+[H]N(N)C none abend 950 1100 strong
+[H]C([H])(O)C none bend 250 400 medium
+[H]C([H])(O)C none abend 1650 1700 weak
+[H]C([H])(O)C none stretch 2200 2345 strong
